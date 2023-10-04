@@ -3,26 +3,27 @@ This is a desktop application designed to help freelancers who charge hourly tra
 <br>
 Features:
 <br>
-User input fields:
+User input fields:<br>
 Time spent on work in hours and minutes
 <br>
-Hourly rate
-Automated calculation of earnings based on time x rate
-Database to store records of:
-Date
-Time spent
-Hourly rate
-Total amount earned
-Reporting features to view/export earnings records
-User Flow:
+
+Hourly rate<br>
+Automated calculation of earnings based on time x rate<br>
+Database to store records of:<br>
+Date<br>
+Time spent<br>
+Hourly rate<br>
+Total amount earned<br>
+Reporting features to view/export earnings records<br>
+User Flow:<br>
 <br>
-User inputs time spent on work for a specific date
-The user inputs their hourly rate
-The app calculates the amount earned by multiplying time by x rate
-Earnings record is saved to database with date, time, rate, and amount
+User inputs time spent on work for a specific date<br>
+The user inputs their hourly rate<br>
+The app calculates the amount earned by multiplying time by x rate<br>
+Earnings record is saved to database with date, time, rate, and amount<br>
 Users can view, search, and export earnings records from the database<br>
 Key Benefits:<br>
-[IMG-20230220-WA0001](https://github.com/AbdurRohit/Freelance-revenue-calculator/assets/96853180/293dffa9-4043-4112-af7a-f74538e1dafa)
+![IMG-20230220-WA0001](https://github.com/AbdurRohit/Freelance-revenue-calculator/assets/96853180/293dffa9-4043-4112-af7a-f74538e1dafa)
 <br>Tracks time automatically to avoid manual calculations
 Stores earnings data in one place for record-keeping
 Provides reporting for easy insights into past earnings
